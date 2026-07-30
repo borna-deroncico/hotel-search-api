@@ -123,3 +123,4 @@ C:\Users\Jerons\Desktop\lemax_home\HotelApi\obj\Debug\net10.0\refint\HotelApi.dl
 C:\Users\Jerons\Desktop\lemax_home\HotelApi\obj\Debug\net10.0\HotelApi.pdb
 C:\Users\Jerons\Desktop\lemax_home\HotelApi\obj\Debug\net10.0\HotelApi.genruntimeconfig.cache
 C:\Users\Jerons\Desktop\lemax_home\HotelApi\obj\Debug\net10.0\ref\HotelApi.dll
+C:\Users\Jerons\Desktop\lemax_home\HotelApi\obj\Debug\net10.0\HotelApi.sourcelink.json
